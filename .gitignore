@@ -1,0 +1,11 @@
+# Directories
+.venv
+.idea
+ParallelCalculations
+NeuralNetworks
+Polynomial
+ComputerLinguistics/.venv
+
+for_tests.py
+ComputerLinguistics/.env
+NeuralNetworks/Neural_Network_KFU/practice4.rar

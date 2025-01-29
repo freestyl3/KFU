@@ -1,6 +1,8 @@
 import nltk
 from nltk import CFG
 
+# nltk.download()
+
 grammar = CFG.fromstring("""
   S -> NP VP | VP NP | PP PP NP VP | PP PP VP NP
   NP -> Det Nom | PropN | Adj Nom | N | N VP | VP | Adj PropN
